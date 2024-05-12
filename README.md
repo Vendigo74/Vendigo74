@@ -1,18 +1,18 @@
 # Hello 👋
 
-My name is Timur, and I recently received master's degree in applied computer science. Nowadays I'm based in Chelyabinsk, Russia.
+My name is Timur, and I recently received master's degree in applied computer science. Nowadays I'm based in Chelyabinsk, Russia and looking for remote job.
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: TypeScript, JavaScript / Node.js, C/C++, C#
-- 🖼️ Frameworks: Vue 2, Vuex
+- 🖥️ Programming languages: TypeScript, JavaScript, C/C++, C#
+- 🖼️ Frameworks: Vue 2
 - 🗣️ Human languages: English, Russian
-- 🤹 Other skills: Google Cloud Platform, T-SQL Git / GitHub
+- 🤹 Tools I'm familiar with: SQL, Git, Visual Studio, AnyLogic, Loginom, Google Cloud Platform
 
 ## 🌱 Things I am learning about
 
+- Vue 3, React
 - Database and API design
-- Vue 3, Pinia
 
 ## 💪 Things I do for fun
 
